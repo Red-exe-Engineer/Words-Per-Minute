@@ -1,4 +1,6 @@
-Credits:
+README.md
+
+Author:
 Wallee#8314 / Red-exe-Engineer
 
 Thanks to:
