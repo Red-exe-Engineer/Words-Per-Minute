@@ -5,8 +5,7 @@ Program author:
 Wallee#8314 / Red-exe-Engineer
 
 Thanks to:
-Deekayen.
-For the 1-1000.txt file
+Deekayen, for the 1-1000.txt file
 
 Source:
 https://gist.github.com/deekayen/4148741
