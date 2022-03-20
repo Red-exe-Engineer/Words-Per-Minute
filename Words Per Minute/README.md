@@ -4,7 +4,7 @@ Author:
 Wallee#8314 / Red-exe-Engineer
 
 Thanks to:
-Deekayen for their 1-1000 common words file
+Deekayen for their 1-1000.txt common words file
 
 Warning:
 This program generates a random string of words.
