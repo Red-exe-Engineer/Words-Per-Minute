@@ -1,6 +1,6 @@
 """
     Created by Wallee#8314 / Red-exe-Engineer
-    Simple Words Per Minute version 1.1
+    Simple Words Per Minute version 1.2
 """
 
 # Imports
