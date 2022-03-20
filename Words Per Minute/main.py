@@ -260,7 +260,7 @@ while True:
     print("Mistakes: " + int2str(score)                 + " / " + int2str(len(words))   + " | " + str(100 - 100 * (int(score)      / int(len(words))))[:6]     + "%")
 
     # Wait for and check if input is equal to q, also telling to user how to quit
-    if input("\n\n Q to exit ").lower() == "q":
+    if input("\n Q to exit ").lower() == "q":
 
         # Print a thank you
         print("\nThank you for using my program")
